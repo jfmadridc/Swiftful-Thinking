@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1.swiftBasics'/>
+        <page name='2.basicTypes'/>
+        <page name='3.variables'/>
+        <page name='4.if-statements'/>
+        <page name='5.functions'/>
+        <page name='6.optionals'/>
+        <page name='6.2.Optionals2'/>
+        <page name='6.3.optionals3'/>
+        <page name='6.4.optionalChaining'/>
+        <page name='test'/>
+    </pages>
+</playground>
